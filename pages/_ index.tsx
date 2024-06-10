@@ -15,7 +15,6 @@ const Home: React.FC = () => {
       <Header />
       <main>
         <Hero />
-        {/* Add more sections as per the design */}
       </main>
       <Footer />
     </div>
